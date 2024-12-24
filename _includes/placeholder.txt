@@ -1,0 +1,1 @@
+Place `flavicon` in `_includes/placeholder.txt`
