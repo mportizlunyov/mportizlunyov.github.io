@@ -1,0 +1,13 @@
+/* Element CSS */
+
+/* Classes */
+.center {
+  text-align: center;
+}
+.descriptionSection {}
+.contentSection {}
+
+/* IDs */
+#langDesc {
+  white-space: pre-line;
+}
